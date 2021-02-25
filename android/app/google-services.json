@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461279362933",
+    "project_id": "chat-balcoder-1",
+    "storage_bucket": "chat-balcoder-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461279362933:android:270542369944c3886e1d3c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_balcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461279362933-5aiosdakai7nijp3ddl8119uql8l2p63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1efYl47pjnc5X5wyAnaeGJYs8hI7qWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461279362933-5aiosdakai7nijp3ddl8119uql8l2p63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
