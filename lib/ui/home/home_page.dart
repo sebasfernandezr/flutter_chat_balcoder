@@ -37,8 +37,8 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
       body: Center(
           child: TabBarView(
         children: [
+          new ContacListPage(),
           chatListPage(),
-          ContacListPage(),
         ],
         controller: _tabController,
       )),

@@ -10,7 +10,7 @@ class _ChatFormPageState extends State<ChatFormPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text("Chat form page"),
-      ),
+      ), 
       body: Column(),
     );
   }
